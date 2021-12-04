@@ -1,2 +1,3 @@
 # ML-based-python-projects
-controlling mouse using hand without touching the mouse.
+
+## Play and pause video using hand without using mouse or trackpad.
